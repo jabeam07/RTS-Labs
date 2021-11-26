@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f252d198-9db6-4f9f-8acc-b4cf4bb3eb4d": {
+      "ProjectGuid": "f252d198-9db6-4f9f-8acc-b4cf4bb3eb4d",
+      "DisplayName": "RTSLabsTest",
+      "ColorIndex": 0
+    },
+    "ad506144-c352-4a19-ba41-0cdd58766cd4": {
+      "ProjectGuid": "ad506144-c352-4a19-ba41-0cdd58766cd4",
+      "DisplayName": "StringRotation",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
